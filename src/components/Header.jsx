@@ -41,7 +41,8 @@ const Header = () => {
             />
           </div>
 
-          <div className="w-full h-50vh md:h-[90vh] absolute top-1 right-0">
+          <div class="w-full h-50vh md:h-[90vh] overflow-hidden absolute top-0 right-0">
+
             <img
               src="/Vector.png"
               alt=""
