@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 
 const Articles = () => {
-  const [page, setPage] = useState(1);
   const data = [
     {
       title: "Grilled  Tomatoes at Home",
